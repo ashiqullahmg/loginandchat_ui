@@ -1,6 +1,8 @@
 # loginandchat_ui
 
 A new Flutter project.
+##Screenshots
+<img src="preview1.png" width="512" height="1100">
 
 ## Getting Started
 
