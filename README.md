@@ -2,7 +2,9 @@
 
 A new Flutter project.
 ## Screenshots
+### First screen
 <img src="preview1.png" width="300" height="533">
+### Second Screen
 <img src="preview2.png" width="300" height="533">
 
 
