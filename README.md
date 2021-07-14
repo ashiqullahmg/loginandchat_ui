@@ -2,8 +2,8 @@
 
 A new Flutter project.
 ## Screenshots
-<img src="preview1.png" width="512" height="1100">
-<img src="preview2.png" width="512" height="1100">
+<img src="preview1.png" width="300" height="533">
+<img src="preview2.png" width="300" height="533">
 
 
 ## Getting Started
